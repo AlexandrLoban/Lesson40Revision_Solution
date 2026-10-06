@@ -6,4 +6,5 @@
   <Project Path="Lesson40RevisionSolution/Lesson40RevisionSolution.vcxproj" />
   <Project Path="Task02/Task02.vcxproj" />
   <Project Path="Task03/Task03.vcxproj" />
+  <Project Path="Task04/Task04.vcxproj" />
 </Solution>
