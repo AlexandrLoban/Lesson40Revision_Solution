@@ -8,4 +8,6 @@
   <Project Path="Task03/Task03.vcxproj" />
   <Project Path="Task04/Task04.vcxproj" />
   <Project Path="Task05/Task05.vcxproj" />
+  <Project Path="Task06/Task06.vcxproj" />
+  <Project Path="Task07_special/Task07_special.vcxproj" />
 </Solution>
